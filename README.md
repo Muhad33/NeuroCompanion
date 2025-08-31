@@ -77,11 +77,33 @@ ADHD → Autism → Memory → Epilepsy → back to ADHD.
 - Long press button → Send SOS alert with GPS coordinates.
 - LCD displays the current mode status.
 - Buzzer + LEDs + vibration provide multimodal feedback.
- ---
-## 📖 Documentation
+---
 
-- [Hardware wiring details](hardware/pinout.md)  
-- [Code modular design](code/NeuroCompanion_Pro.ino)
+## 🛠️ Skills Learned
+- Embedded Systems Programming (Arduino IDE, C/C++)
+- Modular Code Design and Hardware Abstraction
+- Working with Wearable Sensors (MPU6050, MAX30102, GPS modules)
+- Signal Processing for Sensor Data (motion, heart rate, SpO₂)
+- Low-Power Design Considerations for Wearables
+- Serial Communication (UART, I²C)
+- Prototyping & Hardware Debugging
+- Documentation and Repository Structuring (tests, hardware pinout, modular code)
+
+---
+
+## 🚀 Future Work
+- Expanding **Epilepsy Mode** to automatically notify hospital/guardian during seizures
+- Creating a **mobile companion app** for real-time data visualization
+- Improving **power efficiency** with deep sleep & optimized sensor usage
+- PCB design for compact wearable hardware
+- Applying **machine learning** for better activity/health event detection
+
+ ---
+## 👨‍💻 Author
+
+Muhammed Muhad
+📧 Contact: [muhadpsy@gmail.com]
+🔗 LinkedIn: [https://www.linkedin.com/in/muhad-/]
 
 
 
