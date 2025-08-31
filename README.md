@@ -27,6 +27,7 @@ It also includes health monitoring features like Sleep Tracking, Stress Detectio
 ---
 
 ## 📂 Project Structure
+```bash
 NeuroCompanion/
 │
 ├── code/
@@ -38,7 +39,7 @@ NeuroCompanion/
 │
 ├── LICENSE
 └── README.md                        # Project documentation
-  
+```
 
 ---
 ## ⚡ Installation & Setup
