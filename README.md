@@ -31,8 +31,8 @@ It also includes health monitoring features like Sleep Tracking, Stress Detectio
 NeuroCompanion/
 │
 ├── code/
-│   └── NeuroCompanion_Pro/
-│       └── NeuroCompanion_Pro.ino   # Main Arduino sketch
+│   └── NeuroCompanion_Main/
+│       └── NeuroCompanion_Pro.ino   # Main Arduino program
 │
 ├── hardware/
 │   └── pinout.md                    # Pin mapping & wiring notes
@@ -47,7 +47,7 @@ NeuroCompanion/
 1. Clone the repo:
 ```bash
 git clone https://github.com/Muhad33/NeuroCompanion.git
-cd NeuroCompanion/code/NeuroCompanion_Pro
+cd NeuroCompanion/code/NeuroCompanion_main
 ```
 
 2. Open NeuroCompanion_Pro.ino in the Arduino IDE.
